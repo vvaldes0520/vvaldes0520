@@ -1,6 +1,9 @@
-## Hi there 👋
+## Welcome to my GitHub! 👋
 My name is Victoria Valdes and I'm currently a Computer Science & Digital Media Student @ the University of Central Florida!
-I'm an aspiring Web Developer & UI/UX Designer👩‍💻🎨
+- I'm an aspiring Web Developer & UI/UX Designer looking to expand my knowledge in the field!👩‍💻🎨
+- 📫 Email: vvaldes0520@gmail.com
+
+
 
 <!--
 **vvaldes0520/vvaldes0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
