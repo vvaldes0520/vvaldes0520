@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Victoria Valdes and I'm currently a Computer Science & Digital Media Student @ the University of Central Florida!
+I'm an aspiring Web Developer & UI/UX Designer👩‍💻🎨
 
 <!--
 **vvaldes0520/vvaldes0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
